@@ -1,0 +1,6 @@
+DB:
+  URL: "mongodb+srv://admin:admin@cluster0.byh8o.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  Name: "mongo"
+  Collection: "proxy"
+
+Port: "8080"
